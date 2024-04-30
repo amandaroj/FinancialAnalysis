@@ -2,7 +2,7 @@
 
 
 
-## Sitution
+## Situation
 
 At a leading consulting firm, the finance team is facing a complex challenge: the company lacks a centralised view of the financial perfomance and financial models are created at a country level without being aggregated. This lack of clarity obscured the true financial health and performance across different services and regions, making it difficult to:
 
